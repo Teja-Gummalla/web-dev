@@ -1,0 +1,11 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello World!\")"
+  },
+  "author": "Teja Gummalla",
+  "license": "ISC"
+}
